@@ -1,0 +1,14 @@
+.header, .footer {
+    background-color: beige;
+    padding: 30px;
+}
+
+.navbar {
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+.main {
+    padding: 20px;
+    flex: 1;
+}
